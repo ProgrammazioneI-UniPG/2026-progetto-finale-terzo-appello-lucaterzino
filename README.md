@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Luca
 
-## Cognome: 
+## Cognome: Terzino
 
-## Matricola:
+## Matricola: 347931
 
-## Commenti/modifiche al progetto:
+## Commenti/modifiche al progetto: 
 
